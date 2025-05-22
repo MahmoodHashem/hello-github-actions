@@ -1,6 +1,7 @@
 <header>
 
 # Hello GitHub Actions
+This Repository is for learning github actions 
 
 _Create and run a GitHub Actions workflow._
 
